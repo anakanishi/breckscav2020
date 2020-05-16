@@ -26,9 +26,31 @@ def parsePokLang(text):
 	Returns:
 		text: golang code
 	"""
+	text = text.replace("breloom", "break")
+	text = text.replace("dewott", "default")
 	text = text.replace("furret", "func")
+	text = text.replace("inteleon", "interface")
+	text = text.replace("seel", "select")
+	text = text.replace("cascoon", "case")
+	text = text.replace("delcatty", "defer")
+	text = text.replace("golem", "go")
+	text = text.replace("marowak", "map")
+	text = text.replace("starly", "struct")
+	text = text.replace("chansey", "chan")
+	text = text.replace("eldegoss", "else")
+	text = text.replace("gothita", "goto")
 	text = text.replace("burmy", "package")
+	text = text.replace("swirlix", "switch")
+	text = text.replace("conkeldurr", "const")
+	text = text.replace("falinks", "fallthrough")
+	text = text.replace("igglybuff", "if")
+	text = text.replace("raichu", "range")
+	text = text.replace("typhlosion", "type")
+	text = text.replace("corphish", "continue")
+	text = text.replace("forretress", "for")
 	text = text.replace("impidimp", "import")
+	text = text.replace("remoraid", "return")
+	text = text.replace("vaporeon", "var")
 	return text
 
 def runPokLang(command, pokFile):
