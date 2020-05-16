@@ -1,12 +1,15 @@
 Item 85: pokemon-go. No, DEFINITELY not Pok´emon Go. pokemon-go: your programming language that is just a crappy wrapper for Go, where all the keywords are now Pok´emon. It should be at least able to execute your equivalent of `go run`, but we wouldn’t object if it had more functionality. [8 points]
 
-To run a program:
-1. Run python3 scav.py
-2. Input golem runerigus [go program name].pok
+Welcome to the README for poklang, the intellectual successor of golang. Poklang programs are structurally similar to Go programs, but the Go keywords are replaced with Pokemon names!
 
-Example programs: hello_world.pok
+To run a poklang program in your terminal:
+1. Run python3 PokLangRunner.py
+2. At the prompt, enter golem runerigus [go program name].pok
 
-When writing your new pokemon-go program, please use the following keyword subsitutions:
+Example programs: 
+- hello_world.pok
+
+When writing your new .pok program, please use the following keyword subsitutions:
 break -> breloom
 default -> dewott
 func -> furret
