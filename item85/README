@@ -7,28 +7,28 @@ To run a program:
 Example programs: hello_world.pok
 
 When writing your new pokemon-go program, please use the following keyword subsitutions:
-break -> 
-default -> 
+break -> breloom
+default -> dewott
 func -> furret
-interface -> 
-select ->
-case ->
-defer ->
+interface -> inteleon
+select -> seel
+case -> cascoon
+defer -> delcatty
 go -> golem
-map ->
-struct ->
-chan ->
-else ->
-goto -> 
+map -> marowak
+struct -> starly
+chan -> chansey
+else -> eldegoss
+goto -> gothita
 package -> burmy
-switch ->
-const ->
-fallthrough ->
-if ->
-range ->
-type ->
-continue ->
-for ->
+switch -> swirlix
+const -> conkeldurr
+fallthrough -> falinks
+if -> igglybuff
+range -> raichu
+type -> typhlosion
+continue -> corphish
+for -> forretress
 import -> impidimp
-return ->
-var -> 
+return -> remoraid
+var -> vaporeon
