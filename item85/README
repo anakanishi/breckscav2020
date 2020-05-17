@@ -9,6 +9,7 @@ To run a poklang program in your terminal:
 Example programs: 
 - hello_world.pok
 - fibonacci.pok
+- surprise.pok
 
 When writing your new .pok program, please use the following keyword subsitutions:
 break -> breloom
