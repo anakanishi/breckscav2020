@@ -1,0 +1,30 @@
+//POKELANG Program to Generate Fibonacci Sequence Up to a Certain Number
+ 
+burmy main
+ 
+impidimp "fmt"
+ 
+furret main(){
+    vaporeon n int
+    mewone:=0
+    mewtwo:=1
+    nextPokemon:=0
+     
+    fmt.Print("Enter the number of terms : ")
+    fmt.Scan(&n)
+    fmt.Print("Fibonacci Series :")
+    forretress i:=1;i<=n;i++ {
+        igglybuff(i==1){
+            fmt.Print(" ",mewone)
+            corphish
+        }
+        igglybuff(i==2){
+            fmt.Print(" ",mewtwo)
+            corphish
+        }
+        nextPokemon = mewone + mewtwo
+        mewone=mewtwo
+        mewtwo=nextPokemon
+        fmt.Print(" ",nextPokemon)
+    }
+}

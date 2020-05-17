@@ -3,11 +3,12 @@ Item 85: pokemon-go. No, DEFINITELY not Pok´emon Go. pokemon-go: your programmi
 Welcome to the README for poklang, the intellectual successor of golang. Poklang programs are structurally similar to Go programs, but the Go keywords are replaced with Pokemon names!
 
 To run a poklang program in your terminal:
-1. Run python3 PokLangRunner.py
-2. At the prompt, enter golem runerigus [go program name].pok
+1. Run python3 pokemon-go.py
+2. At the prompt, enter golem runerigus [program name].pok
 
 Example programs: 
 - hello_world.pok
+- fibonacci.pok
 
 When writing your new .pok program, please use the following keyword subsitutions:
 break -> breloom

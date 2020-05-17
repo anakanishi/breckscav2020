@@ -3,5 +3,5 @@ burmy main
 impidimp "fmt"
 
 furret main() {
-	fmt.Println("Hello, world")
+	fmt.Println("Hello pokemon world")
 }
